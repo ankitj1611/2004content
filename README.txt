@@ -9,3 +9,5 @@ everything.7z holds what i've compiled so far from all the sources given me (1,8
 
 I'm nowhere near done adding to everything.7z. Then I'll filter it and sort it and split it into its relevant categories. Alongside the movies and shows, it also holds porn, music, and games, which will each get new .txt files.
 Thanks guys.
+
+This repository was mentioned on TorrentFreak - https://torrentfreak.com/rarbg-over-267000-movie-tv-show-magnet-links-appear-online-230601/
