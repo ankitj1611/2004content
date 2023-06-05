@@ -13,7 +13,7 @@ everything.7z holds everything that i've compiled (3,468,029)
 (and it would take a large new backup find to convince me otherwise)
 (and convince me to update it)
 
-Some of the stuff in everything.7z did not come from RARBG, and that is my next step. I'm accepting suggestions for how to do that. My current best idea is to write something to look for commonly formatted titles, like TITLE.YEAR.RESOLUTION.SOURCE.ENCODING-GROUP, but I'll need input on what porn/music/games titles usually looked like on RARBG, I'm not familiar with them.
+Some of the stuff in everything.7z did not come from RARBG, and that is my next step. I'm accepting suggestions for how to filter those. My current best idea is to write something to look for commonly formatted titles, like TITLE.YEAR.RESOLUTION.SOURCE.ENCODING-GROUP, but I'll need input on what porn/music/games titles usually looked like on RARBG, I'm not familiar with them.
 I'll filter everything.7z and split it into its relevant categories. For example, the one I'm most excited for is a .txt file dedicated to solely 1080p BluRay x265 -RARBG movies.
 Thanks guys.
 
