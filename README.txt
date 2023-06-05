@@ -19,4 +19,4 @@ Thanks guys.
 
 This repository was mentioned on TorrentFreak - https://torrentfreak.com/rarbg-over-267000-movie-tv-show-magnet-links-appear-online-230601/
 
-Much more info about this project can be found at https://www.reddit.com/r/Piracy/comments/13wn554/my_rarbg_magnet_backup_268k/
+Much more info about this project can be found on Reddit - https://www.reddit.com/r/Piracy/comments/13wn554/my_rarbg_magnet_backup_268k/
